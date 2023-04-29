@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drSammyOtia
-- 👀 I’m currently doing web development
+- 👀 I’m currently doing Python Web development
 - 🌱 I’m learning new concept in data science
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on Python web development
 - 📫 You can reach me out at dr.sammyotia@gmail.com or Tell: +2547-196-866-40
 
 <!---
